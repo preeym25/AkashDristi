@@ -1,0 +1,6 @@
+# Local ML virtual environment
+ml/.venv/
+
+# Python cache
+__pycache__/
+*.pyc

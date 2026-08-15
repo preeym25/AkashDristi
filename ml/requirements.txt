@@ -1,0 +1,8 @@
+# Minimal ML environment for initial setup and dataset exploration
+# Keep this list intentionally small. Add model-specific packages later.
+
+torch>=2.3.0
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+shapely>=2.0
